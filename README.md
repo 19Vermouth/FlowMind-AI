@@ -176,6 +176,11 @@ Next.js 15
 TypeScript
 TailwindCSS
 shadcn/ui
+## 🎥 Demo Video
+
+See FlowMind AI in action:
+
+[Watch Product Demo on Loom](https://www.loom.com/share/1174efca7d5f4e4a92c58371656926e8)
 
 ## Roadmap
 - [x] UI Foundation
