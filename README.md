@@ -2,6 +2,7 @@
 
 A modern, full-featured SaaS application for managing and executing AI workflows. Built with React, TypeScript, and Tailwind CSS.
 
+
 ## ⚡ Product Preview
 
 ![FlowMind AI Demo](assets/flowmind-demo.gif)
