@@ -4,7 +4,7 @@ A modern, full-featured SaaS application for managing and executing AI workflows
 
 ## ⚡ Product Preview
 
-![FlowMind AI Demo](./assets/flowmind-demo.gif)
+![FlowMind AI Demo](assets/flowmind-demo.gif)
 
 ## 🌟 Features
 
