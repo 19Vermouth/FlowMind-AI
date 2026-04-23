@@ -166,3 +166,20 @@ For development guidelines and contribution instructions, please contact the dev
 ## 📞 Support
 
 For issues, feature requests, or questions, please reach out to the development team.
+
+## Current Status
+Frontend MVP complete.
+Backend + AI orchestration in progress.
+
+## Tech Stack
+Next.js 15
+TypeScript
+TailwindCSS
+shadcn/ui
+
+## Roadmap
+- [x] UI Foundation
+- [ ] Authentication
+- [ ] FastAPI backend
+- [ ] LangGraph multi-agent engine
+- [ ] Billing
